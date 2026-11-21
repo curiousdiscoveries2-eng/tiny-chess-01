@@ -18,3 +18,12 @@ randomness). Evaluation: material + piece-square tables, pawn structure
 endgame king table.
 
 License: MIT (see LICENSE).
+
+[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/curiousdiscoveries2-eng/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/curiousdiscoveries2-eng/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+Entry for the [make.fun bounty tiny-chess-01](https://make.fun/bounty/tiny-chess-01).
+
+
+
